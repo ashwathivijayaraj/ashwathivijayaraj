@@ -1,7 +1,5 @@
 👋 Hi there! I’m Ashwathi.
 I’m a Biotechnology graduate with a passion for bridging science and technology.
-
-About Me:
 I’m interested in Bioinformatics, Molecular Biology, and applying Python in life sciences.
 I’m currently learning:  
   - Python programming for data analysis  
